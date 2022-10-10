@@ -1,6 +1,6 @@
 # Deep Learning Fundamentals: Linear Neural Networks, Multilayer Perceptrons
 
-## History
+## [History](https://github.com/JuJu-Ren/Machine-Learning-Study/blob/main/files/history.MD)
 Convolutional Neural Networks: LeNet, AlexNet, VGG, Inception, ResNet
 
 Recurrent Neural Networks: RNN, GRU, LSTM, seq2seq
