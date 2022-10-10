@@ -1,23 +1,23 @@
 # Deep Learning Fundamentals: Linear Neural Networks, Multilayer Perceptrons
 
 ## [History](https://github.com/JuJu-Ren/Machine-Learning-Study/blob/main/files/history.MD)
-##### Convolutional Neural Networks
+### Convolutional Neural Networks
 **LeNet, AlexNet, VGG, Inception, ResNet**
 
-##### Recurrent Neural Networks
+### Recurrent Neural Networks
 **RNN, GRU, LSTM, seq2seq**
 
-##### Attention mechanism
+### Attention mechanism
 **Attention, Transformer**
 
-##### Optimization Algorithms
+### Optimization Algorithms
 **SGD, Momentum, Adam**
 
-##### High Performance Computing
+### High Performance Computing
 **Parallel, Multi-GPU, Distributed**
 
-##### Computer Vision
+### Computer Vision
 **Object Detection, Semantic Segmentation**
 
-##### Natural Language Processing
+### Natural Language Processing
 **Word Embeddings, BERT**
