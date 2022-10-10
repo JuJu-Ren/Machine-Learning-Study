@@ -14,3 +14,14 @@
 * Computer Vision: **Object Detection, Semantic Segmentation**
 
 * Natural Language Processing: **Word Embeddings, BERT**
+
+
+卷积神经网络（CNN）
+卷积神经网络
+深度卷积网络：实例探究
+目标检测
+特殊应用：人脸识别和神经风格转换
+序列模型（RNN、LSTM）
+循环序列模型（RNN）
+自然语言处理与词嵌入
+序列模型和注意力机制
