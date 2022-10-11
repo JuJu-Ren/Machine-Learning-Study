@@ -28,7 +28,6 @@
 
 ## Surpervised Learning
 * Feed Forward Neural Networks
-1. Feedforward Neural Network (FFNNS)
 
 Feed Forward Neural Networks (FFNNs), dating back to the 1940s, are networks without any loops. Data is passed from input to output in a single pass without any previous "state memory". Technically, most networks in deep learning can be thought of as FFNNs, but often "FFNN" refers to its simplest variant: a densely connected multilayer perceptron (MLP).
 Dense encoders are used to map an already compact set of numbers on the input to predictions: classification (discrete) or regression (continuous).
