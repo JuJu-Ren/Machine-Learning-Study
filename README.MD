@@ -2,12 +2,15 @@
 
 ## [History](https://github.com/JuJu-Ren/Machine-Learning-Study/blob/main/files/history.MD)
 * Convolutional Neural Networks: **LeNet, AlexNet, VGG, Inception, ResNet**
+![image](https://user-images.githubusercontent.com/101238373/194985220-40dd1186-57dd-40cd-a64e-adcf1904b70d.png)
 
 *  Recurrent Neural Networks: **RNN, GRU, LSTM, seq2seq**
-
+Unlike standard feedforward neural networks, LSTM has feedback connections. Such a recurrent neural network (RNN) can process not only single data points (such as images), but also entire sequences of data (such as speech or video). 
+Seq2seq is a family of machine learning approaches used for natural language processing.[1] Applications include language translation, image captioning, conversational models and text summarization.
 * Attention mechanism: **Attention, Transformer**
 
 * Optimization Algorithms: **SGD, Momentum, Adam**
+Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable).
 
 * High Performance Computing: **Parallel, Multi-GPU, Distributed**
 
